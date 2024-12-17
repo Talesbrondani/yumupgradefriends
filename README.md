@@ -13,6 +13,7 @@
   - [GitHub Repos](#github-repos)
   - [Devops Repos](#devops-repos)
   - [Exercises](#exercises)
+  - [LearnByPlaying](#LearnByPlaying)
   - [Youtube](#youtube)
   - [Links](#links)
   - [contribute to the project](#how-to-contribute-to-the-project)
@@ -52,6 +53,20 @@ Good for specific study !
 | DevOps Academy          | https://github.com/devopsacademyau/academy                   |
 | 90DaysOfDevOps          | https://github.com/MichaelCade/90DaysOfDevOps/tree/main/Days |
 | DevOps-The-Hard-Way-AWS | https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS |
+
+<h2>LearnByPlaying</h2>
+Dont be shy, just do it, you will have fun.  
+None of the games below require you to log in, so no excuses then !
+
+|        **Game**      |    **Topic**      |              **Links**           |
+|:--------------------:|:-------------:|:--------------------------------:|
+| VimAdventures        | Linux/Vim  | https://vim-adventures.com/      |
+| VimRacer             | Linux/Vim  | https://vim-racer.com/           |
+| Learn GitBranching   | Git        | https://learngitbranching.js.org/|
+| Oh My Git!           | Git        | https://ohmygit.org/             |  
+| WarriorJS            | Javascript | https://warriorjs.com/           |
+| PyKidos              | Python     | https://pykidos.github.io/       |    
+| Deadlock Empire      | C#         |https://deadlockempire.github.io/#menu |
 
 
 <h2>Youtube</h2>

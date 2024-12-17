@@ -13,10 +13,10 @@
   - [GitHub Repos](#github-repos)
   - [Devops Repos](#devops-repos)
   - [Exercises](#exercises)
+  - [LearnByPlaying](#LearnByPlaying)
   - [Youtube](#youtube)
   - [Links](#links)
   - [contribute to the project](#how-to-contribute-to-the-project)
-    
     
     
  
@@ -54,8 +54,8 @@ Good for specific study !
 | 90DaysOfDevOps          | https://github.com/MichaelCade/90DaysOfDevOps/tree/main/Days |
 | DevOps-The-Hard-Way-AWS | https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS |
 
-<h2>Learn by playing</h2>
-Dont be shy, just do it, you will have fun.
+<h2>LearnByPlaying</h2>
+Dont be shy, just do it, you will have fun.  
 None of the games below require you to log in, so no excuses then !
 
 |        **Game**      |    **Topic**      |              **Links**           |
